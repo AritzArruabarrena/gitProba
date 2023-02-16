@@ -1,2 +1,2 @@
-# gitProba
+# GitProba
 Git ikasteko errepositorioa
